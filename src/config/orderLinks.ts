@@ -5,7 +5,7 @@
 export const orderLinks = {
   // Verified WhatsApp business contact (set with country code, e.g., 919876543210)
   // If not yet verified with live SIM, set to configurable phone number:
-  whatsappNumber: '919840000000',
+  whatsappNumber: '+91 98404 84845',
 
   // Configured delivery platform links
   swiggyUrl: 'https://www.swiggy.com/restaurants/planet-wellness-cafe-saligramam-chennai',
